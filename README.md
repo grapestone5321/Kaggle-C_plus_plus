@@ -15,8 +15,11 @@ This video serves as an introduction to the C++ programming language
 C++ is a beast of a language. We're only scratching the surface.
 
 ⭐️Time Stamps⭐️
+
 1#  (00:00:00) C++ tutorial for beginners 👨‍💻
+
 2#  (00:13:30) Variables and basic data types ✗
+
 3#  (00:24:14) Const 🚫
 4#  (00:27:37) Namespaces 📛
 5#  (00:32:13) Typedef and type aliases 🙋‍♂️
